@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+.env
+.DS_Store
+frontend/.cache/
+backend/logs/
